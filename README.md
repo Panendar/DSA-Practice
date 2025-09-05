@@ -13,6 +13,7 @@ This repo is for DSA Practice
 - Decimal to binary conversion
 
 ## File Structure
-
+```
 Insertion_sort.c
 README.md
+```
