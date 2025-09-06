@@ -1,0 +1,17 @@
+# Ignore all executable files
+*.exe
+
+# Ignore temporary files
+temp.*
+**/temp.*
+
+# Store batch command here (will be ignored by Git)
+# To run: gcc $1 -o temp.exe && ./temp.exe && del temp.exe
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code settings
+.vscode/
+*.code-workspace
