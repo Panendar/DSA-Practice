@@ -4,9 +4,10 @@
 # Ignore temporary files
 temp.*
 **/temp.*
+*.gitignore.exe
 
-# Store batch command here (will be ignored by Git)
-# To run: gcc $1 -o temp.exe && ./temp.exe && del temp.exe
+# Ignore our run script
+run.gitignore
 
 # Ignore system files
 .DS_Store
